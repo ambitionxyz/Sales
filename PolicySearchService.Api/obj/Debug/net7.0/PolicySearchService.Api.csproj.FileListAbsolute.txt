@@ -1,0 +1,12 @@
+C:\project\net\Sales\PolicySearchService.Api\bin\Debug\net7.0\PolicySearchService.Api.deps.json
+C:\project\net\Sales\PolicySearchService.Api\bin\Debug\net7.0\PolicySearchService.Api.dll
+C:\project\net\Sales\PolicySearchService.Api\bin\Debug\net7.0\PolicySearchService.Api.pdb
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\PolicySearchService.Api.csproj.AssemblyReference.cache
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\PolicySearchService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\PolicySearchService.Api.AssemblyInfoInputs.cache
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\PolicySearchService.Api.AssemblyInfo.cs
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\PolicySearchService.Api.csproj.CoreCompileInputs.cache
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\PolicySearchService.Api.dll
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\refint\PolicySearchService.Api.dll
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\PolicySearchService.Api.pdb
+C:\project\net\Sales\PolicySearchService.Api\obj\Debug\net7.0\ref\PolicySearchService.Api.dll

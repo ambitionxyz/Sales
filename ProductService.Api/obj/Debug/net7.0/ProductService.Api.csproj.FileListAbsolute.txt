@@ -1,0 +1,12 @@
+C:\project\net\Sales\ProductService.Api\bin\Debug\net7.0\ProductService.Api.deps.json
+C:\project\net\Sales\ProductService.Api\bin\Debug\net7.0\ProductService.Api.dll
+C:\project\net\Sales\ProductService.Api\bin\Debug\net7.0\ProductService.Api.pdb
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\ProductService.Api.csproj.AssemblyReference.cache
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\ProductService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\ProductService.Api.AssemblyInfoInputs.cache
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\ProductService.Api.AssemblyInfo.cs
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\ProductService.Api.csproj.CoreCompileInputs.cache
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\ProductService.Api.dll
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\refint\ProductService.Api.dll
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\ProductService.Api.pdb
+C:\project\net\Sales\ProductService.Api\obj\Debug\net7.0\ref\ProductService.Api.dll

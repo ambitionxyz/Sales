@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAaJLmltq0QrCN9+Nr0lclRR3nyOO+cYyNVig8SMFLCQxswlC6Zf+SPtGSQNK3qq3TrrVKEO/Z2PmNDfTOTKeA==",
+  "success": true,
+  "projectFilePath": "C:\\project\\net\\Sales\\PolicySearchService.Api\\PolicySearchService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUAN\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\LUAN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LUAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

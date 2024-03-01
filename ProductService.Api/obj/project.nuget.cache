@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "deoirWNJvLw0JB7uHKn6OouBOXxX4fb5t4Z1Us2P9f1kSh2wybjpw9d1k9VRko9Zi/8k5EjpR0kKSY8ZLnhgiA==",
+  "success": true,
+  "projectFilePath": "C:\\project\\net\\Sales\\ProductService.Api\\ProductService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUAN\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\LUAN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LUAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\LUAN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

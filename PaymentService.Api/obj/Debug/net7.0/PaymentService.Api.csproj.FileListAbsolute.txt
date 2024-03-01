@@ -1,0 +1,12 @@
+C:\project\net\Sales\PaymentService.Api\bin\Debug\net7.0\PaymentService.Api.deps.json
+C:\project\net\Sales\PaymentService.Api\bin\Debug\net7.0\PaymentService.Api.dll
+C:\project\net\Sales\PaymentService.Api\bin\Debug\net7.0\PaymentService.Api.pdb
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\PaymentService.Api.csproj.AssemblyReference.cache
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\PaymentService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\PaymentService.Api.AssemblyInfoInputs.cache
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\PaymentService.Api.AssemblyInfo.cs
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\PaymentService.Api.csproj.CoreCompileInputs.cache
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\PaymentService.Api.dll
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\refint\PaymentService.Api.dll
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\PaymentService.Api.pdb
+C:\project\net\Sales\PaymentService.Api\obj\Debug\net7.0\ref\PaymentService.Api.dll

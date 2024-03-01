@@ -1,0 +1,12 @@
+C:\project\net\Sales\DashboardService.Api\bin\Debug\net7.0\DashboardService.Api.deps.json
+C:\project\net\Sales\DashboardService.Api\bin\Debug\net7.0\DashboardService.Api.dll
+C:\project\net\Sales\DashboardService.Api\bin\Debug\net7.0\DashboardService.Api.pdb
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\DashboardService.Api.csproj.AssemblyReference.cache
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\DashboardService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\DashboardService.Api.AssemblyInfoInputs.cache
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\DashboardService.Api.AssemblyInfo.cs
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\DashboardService.Api.csproj.CoreCompileInputs.cache
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\DashboardService.Api.dll
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\refint\DashboardService.Api.dll
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\DashboardService.Api.pdb
+C:\project\net\Sales\DashboardService.Api\obj\Debug\net7.0\ref\DashboardService.Api.dll

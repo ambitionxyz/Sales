@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxionJYOgbKTcXhCfOGK1rPxQIV12EJ6fB8uDnEMdFW3s8Zm7XNtxxMLq8qL96L+VFlLtR5q0CaAUQcOZ/wGGw==",
+  "success": true,
+  "projectFilePath": "C:\\project\\net\\Sales\\PaymentService.Api\\PaymentService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUAN\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\LUAN\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\LUAN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LUAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

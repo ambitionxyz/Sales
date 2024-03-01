@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rfXaK/ObLdyeNGXvnlTYsLqjC9FRwR0TzxGf0GVqb8Y=",
+  "Source": "AgentApiGateway",
+  "BasePath": "_content/AgentApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

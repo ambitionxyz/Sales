@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AgentApiGateway.props" />
+</Project>

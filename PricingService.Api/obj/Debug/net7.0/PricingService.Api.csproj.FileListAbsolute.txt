@@ -1,0 +1,12 @@
+C:\project\net\Sales\PricingService.Api\bin\Debug\net7.0\PricingService.Api.deps.json
+C:\project\net\Sales\PricingService.Api\bin\Debug\net7.0\PricingService.Api.dll
+C:\project\net\Sales\PricingService.Api\bin\Debug\net7.0\PricingService.Api.pdb
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\PricingService.Api.csproj.AssemblyReference.cache
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\PricingService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\PricingService.Api.AssemblyInfoInputs.cache
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\PricingService.Api.AssemblyInfo.cs
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\PricingService.Api.csproj.CoreCompileInputs.cache
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\PricingService.Api.dll
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\refint\PricingService.Api.dll
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\PricingService.Api.pdb
+C:\project\net\Sales\PricingService.Api\obj\Debug\net7.0\ref\PricingService.Api.dll

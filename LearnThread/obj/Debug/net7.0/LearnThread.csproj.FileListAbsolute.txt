@@ -1,0 +1,14 @@
+C:\project\net\Sales\LearnThread\bin\Debug\net7.0\LearnThread.exe
+C:\project\net\Sales\LearnThread\bin\Debug\net7.0\LearnThread.deps.json
+C:\project\net\Sales\LearnThread\bin\Debug\net7.0\LearnThread.runtimeconfig.json
+C:\project\net\Sales\LearnThread\bin\Debug\net7.0\LearnThread.dll
+C:\project\net\Sales\LearnThread\bin\Debug\net7.0\LearnThread.pdb
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\LearnThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\LearnThread.AssemblyInfoInputs.cache
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\LearnThread.AssemblyInfo.cs
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\LearnThread.csproj.CoreCompileInputs.cache
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\LearnThread.dll
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\refint\LearnThread.dll
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\LearnThread.pdb
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\LearnThread.genruntimeconfig.cache
+C:\project\net\Sales\LearnThread\obj\Debug\net7.0\ref\LearnThread.dll
